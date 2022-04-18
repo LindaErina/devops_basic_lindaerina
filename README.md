@@ -1,2 +1,2 @@
-# devops_basic_lindaerina
-DevOps pamati iesācējiem
+# DevOps repozitorijs
+Linda Eriņa DevOps repozitorijs pamati iesācējiem
