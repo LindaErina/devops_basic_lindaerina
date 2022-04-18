@@ -1,2 +1,2 @@
 # DevOps repozitorijs
-Linda Eriņa DevOps repozitorijs pamati iesācējiem
+Lindas Eriņas DevOps repozitorijs pamati iesācējiem
